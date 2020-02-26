@@ -33,30 +33,18 @@ Jujur, pengetahuan yang didapatkan merupakan jerih payah sendiri, karena saya se
 3. ordered item
 4. ordered item
 
-### Unordered -- Ordered -- Unordered
+### Manfaat Github Menurut Saya
 
-* unordered item
-* unordered item 
-  1. ordered
-  2. ordered 
-     * unordered item
-     * unordered item
-* unordered item
-* unordered item
+1. Mempercepat Pengerjaan Tugas
 
-### Unordered -- Unordered -- Ordered
+Github membuat kita dapat bekerja kelompok dengan membagi tugas - tanpa saling timpa satu sama lain, dan cara tersebut merupakan cara yang sangat efektif daripada kerja kelompok konvensional yang apabila setiap orang membuat sesuatu, ketika di gabungkan akan terjadi banyak error yang membuat kita sendiri kebingungan
 
-* unordered item
-* unordered item 
-  * unordered
-  * unordered 
-    1. **ordered item**
-    2. **ordered item**
-* unordered item
-* unordered item
+2. Banyak Referensi
 
-### Task Lists
+Github merupakan sebuah tempat dimana setiap orang dapat mengunggah karyanya untuk menjadi referensi, dan inspirasi orang lain. Semakin saya menelusuri Github, saya semakin ingin banyak berkarya di platform ini.
 
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+### Tugas 3.6 Proyek
+
+- [x] Membuat Fork Repository
+- [x] Membuat Live Website di Repository tsb.
+- [x] Memposting kesan-unek2 selama Proyek 01.
