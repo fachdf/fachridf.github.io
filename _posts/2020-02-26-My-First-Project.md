@@ -30,9 +30,6 @@ Jujur, pengetahuan yang didapatkan merupakan jerih payah sendiri, karena saya se
   * Dirumah nugas
   * Chattingan tugas
 
-3. ordered item
-4. ordered item
-
 ### Manfaat Github Menurut Saya
 
 1. Mempercepat Pengerjaan Tugas
@@ -45,6 +42,7 @@ Github merupakan sebuah tempat dimana setiap orang dapat mengunggah karyanya unt
 
 ### Tugas 3.6 Proyek
 
-- [x] Membuat Fork Repository
-- [x] Membuat Live Website di Repository tsb.
-- [x] Memposting kesan-unek2 selama Proyek 01.
+- [x] Membuat Fork Repository,
+- [x] Membuat Live Website di Repository tsb,
+- [x] Memposting kesan-unek2 selama Proyek 01,
+- [x] Buat Laporan.
