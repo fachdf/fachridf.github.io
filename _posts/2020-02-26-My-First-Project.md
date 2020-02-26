@@ -1,7 +1,7 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+title: "My First Project"
 categories:
-  - Edge Case
+  - Hello World
 tags:
   - content
   - css
@@ -10,12 +10,9 @@ tags:
   - markup
 ---
 
-Nested and mixed lists are an interesting beast. It's a corner case to make sure that
+Ini merupakan Project pertama-ku. Selamat membaca, selamat melihat segala kekurangan-kelebihanku selama pembelajaran.
 
-* Lists within lists do not break the ordered list numbering order
-* Your list styles go deep enough.
-
-### Ordered -- Unordered -- Ordered
+### Kesan & Pesan Ber-Proyek-Ria
 
 1. ordered item
 2. ordered item 
