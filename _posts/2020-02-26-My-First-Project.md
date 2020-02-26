@@ -21,22 +21,22 @@ Ini merupakan Project pertama-ku. Selamat membaca, selamat melihat segala kekura
 
 ### Hikmah Ber-Proyek-Ria
 
-###### Menambah Wawasan
+##### 1. Menambah Wawasan
 
 Jujur, pengetahuan yang didapatkan merupakan jerih payah sendiri, karena saya seringkali harus meng-explore lebih jauh untuk mengerti suatu hal yang tidak akan dijelaskan oleh siapapun. Hal seperti itu merupakan hal yang sulit, namun hasilnya akan lebih terasa karena susah-payah yang kita lakukan.
 
-###### Mempererat Silaturahmi
+##### 2. Mempererat Silaturahmi
   * Kekosan temen nugas
   * Dirumah nugas
   * Chattingan tugas
 
 ### Manfaat Github Menurut Saya
 
-###### Mempercepat Pengerjaan Tugas
+##### 1. Mempercepat Pengerjaan Tugas
 
 Github membuat kita dapat bekerja kelompok dengan membagi tugas - tanpa saling timpa satu sama lain, dan cara tersebut merupakan cara yang sangat efektif daripada kerja kelompok konvensional yang apabila setiap orang membuat sesuatu, ketika di gabungkan akan terjadi banyak error yang membuat kita sendiri kebingungan
 
-###### Banyak Referensi
+##### 2. Banyak Referensi
 
 Github merupakan sebuah tempat dimana setiap orang dapat mengunggah karyanya untuk menjadi referensi, dan inspirasi orang lain. Semakin saya menelusuri Github, saya semakin ingin banyak berkarya di platform ini.
 
