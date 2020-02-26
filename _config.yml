@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Fachri Dhia Fauzan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/pari.jpeg"
   bio              : "I am an **amazing** person."
   location         : "Bandung"
   email            :
