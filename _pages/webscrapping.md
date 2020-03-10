@@ -8,16 +8,15 @@ tags:
   - JQuery
   - HTML
 permalink: /webscrapping/
-customjs :
-  - https://code.jquery.com/jquery-3.3.1.js
-  - https://raw.githubusercontent.com/fachdf/fachridf.github.io/master/_pages/wScript.js
+output : html_document
 ---
 
+<<insertHTML:[scrap.html]
 
-<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+etc, etc, etc
 
-<body>
-    <h1>Head Line Republika Online, Update</h1>
-    <div id="headline"></div>
-</body>
-</html>
+```{r, echo=FALSE}
+htmltools::includeHTML("scrap.html")
+```
+
+etc, etc, etc
