@@ -11,8 +11,8 @@ permalink: /webscrapping/
 
 ---
 
-Test
+Ini Merupakan List Hasil Web Scrapping yang Dibuat Oleh Saya.
 
-### Headline Terkini [Republika.co.id](http://www.Republika.co.id)
+### 1. Headline Terkini Dari [Republika.co.id](http://www.Republika.co.id)
 
-[Tabel Headline Terkini Republika Online](https://fachdf.github.io/fachridf.github.io/scrap.html)
+Link : [Tabel Headline Terkini Republika Online](https://fachdf.github.io/fachridf.github.io/scrap.html)
