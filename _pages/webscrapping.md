@@ -11,5 +11,5 @@ permalink: /webscrapping/
 output :
   html_document :
     includes :
-      in_header : scrap.html
+      before_body : scrap.html
 ---
