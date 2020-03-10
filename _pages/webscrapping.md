@@ -8,12 +8,12 @@ tags:
   - JQuery
   - HTML
 permalink: /webscrapping/
+customjs :
+  - https://code.jquery.com/jquery-3.3.1.js
 ---
-<!DOCTYPE html>
-<html>
-<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
-<script>
-     $(document).ready(function(){
+
+```javascript
+$(document).ready(function(){
         $.getJSON('headline.json',function(data){
             var headline_data = '';
             headline_data += "<table border='1'><tr><td>No</td><td>Judul</td><td>Kategori</td><td>Waktu Publish</td><td>Waktu Scrapping</td></tr>"
@@ -29,7 +29,7 @@ permalink: /webscrapping/
             $('#headline').append(headline_data);
         });
     });
-</script>
+```
 <body>
     <h1>Head Line Republika Online, Update</h1>
     <div id="headline"></div>
