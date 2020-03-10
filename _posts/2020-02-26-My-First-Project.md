@@ -3,11 +3,8 @@ title: "My First Project"
 categories:
   - Hello-World
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+  - Jtk
+  - Proyek
 ---
 
 Ini merupakan Project pertama-ku. Selamat membaca, selamat melihat segala kekurangan-kelebihanku selama pembelajaran.
