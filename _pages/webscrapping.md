@@ -21,9 +21,9 @@ permalink: /webscrapping/
                 headline_data += '<tr>';
                 headline_data += '<td>'+(key+1)+'</td>'
                 headline_data += '<td>'+value.title+'</td>'
-				headline_data += '<td>'+value.category+'</td>'
+				        headline_data += '<td>'+value.category+'</td>'
                 headline_data += '<td>'+value.get_time+'</td>'
-				headline_data += '<td>'+value.date+'</td>'
+				        headline_data += '<td>'+value.date+'</td>'
                 headline_data += '</tr>'; 
             });
             $('#headline').append(headline_data);
@@ -31,7 +31,7 @@ permalink: /webscrapping/
     });
 </script>
 <body>
-    <h1>Head Line Republika Online</h1>
+    <h1>Head Line Republika Online, Update</h1>
     <div id="headline"></div>
 </body>
 </html>
