@@ -8,9 +8,11 @@ tags:
   - JQuery
   - HTML
 permalink: /webscrapping/
-output :
-  html_document :
-    includes :
-      after_body : scrap.html
+
 ---
-Test1
+
+Test
+
+### Headline Terkini [Republika.co.id](http://www.Republika.co.id)
+
+[Tabel Headline Terkini Republika Online](https://fachdf.github.io/fachridf.github.io/scrap.html)
