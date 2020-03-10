@@ -8,15 +8,8 @@ tags:
   - JQuery
   - HTML
 permalink: /webscrapping/
-output : html_document
+output :
+  html_document :
+    includes :
+      in_header : scrap.html
 ---
-
-<<insertHTML:[scrap.html]
-
-etc, etc, etc
-
-```{r, echo=FALSE}
-htmltools::includeHTML("scrap.html")
-```
-
-etc, etc, etc
